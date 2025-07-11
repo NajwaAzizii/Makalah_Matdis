@@ -1,0 +1,101 @@
+id,position,location,skills,experience,salary,job_type,company
+1,Mobile Developer,Bekasi,"""java,sql""",0,14196284,Contract,AppDev
+2,Database Administrator,Makassar,"""sql""",2,19671923,Part-time,CloudSolutions
+3,Mobile Developer,Depok,"""java,python,sql""",10,7153898,Remote,CyberSecure
+4,Mobile Developer,Balikpapan,"""java,sql""",10,14826851,Freelance,DigitalFirst
+5,Project Manager,Bekasi,"""sql""",7,21873070,Freelance,InnovateSoft
+6,Frontend Developer,Denpasar,"""python,sql""",6,21680947,Remote,CloudSolutions
+7,Mobile Developer,Palembang,"""python""",5,8751363,Remote,MegaCorp
+8,Sales Executive,Tangerang,"""aws,java""",0,24403529,Remote,DataTech
+9,Business Analyst,Jakarta,"""java,komunikasi""",3,7049702,Full-time,CodeFactory
+10,Machine Learning Engineer,Semarang,"""java,python""",1,14271298,Remote,TechCorp
+11,Business Analyst,Balikpapan,"""java""",9,7551888,Full-time,AILabs
+12,Full Stack Developer,Surabaya,"""python""",2,20577874,Full-time,DataTech
+13,Sales Executive,Surabaya,"""sql,python""",4,5305608,Part-time,SmartSystems
+14,HR Manager,Jakarta,"""sql,komunikasi""",1,21279569,Full-time,CyberSecure
+15,Backend Developer,Makassar,"""aws,python""",4,18133367,Remote,CodeFactory
+16,Cloud Architect,Balikpapan,"""excel,python""",1,14174000,Full-time,DataTech
+17,Cybersecurity Analyst,Depok,"""python,sql""",5,21699557,Remote,InnovateSoft
+18,Machine Learning Engineer,Palembang,"""excel,java,python""",8,16223222,Part-time,AILabs
+19,Database Administrator,Bandung,"""sql""",0,13999479,Contract,StartupX
+20,Marketing Manager,Bekasi,"""excel,docker""",7,21728133,Contract,FutureTech
+21,DevOps Engineer,Bandung,"""aws,python""",10,13706114,Freelance,CodeFactory
+22,DevOps Engineer,Balikpapan,"""aws,python""",3,12657472,Freelance,FutureTech
+23,UX Designer,Depok,"""python,komunikasi""",5,8095143,Full-time,DataDriven
+24,Full Stack Developer,Denpasar,"""java,python""",4,12747154,Freelance,FutureTech
+25,Marketing Manager,Surabaya,"""java""",9,18329146,Full-time,DigitalFirst
+26,System Administrator,Yogyakarta,"""python,java""",8,9254338,Full-time,FutureTech
+27,UX Designer,Jakarta,"""java,excel""",9,18163831,Freelance,AILabs
+28,Full Stack Developer,Jakarta,"""python""",2,8980600,Part-time,InnovateSoft
+29,Marketing Manager,Makassar,"""python""",5,23236558,Freelance,WebMasters
+30,Data Scientist,Palembang,"""sql""",0,5430769,Remote,FutureTech
+31,Business Analyst,Palembang,"""java""",3,9595377,Remote,AILabs
+32,DevOps Engineer,Medan,"""python""",8,5868452,Part-time,DataDriven
+33,HR Manager,Medan,"""excel,python""",9,10330341,Part-time,CodeFactory
+34,HR Manager,Denpasar,"""java""",9,20799930,Contract,InnovateSoft
+35,Machine Learning Engineer,Semarang,"""excel,python,sql""",6,14608382,Part-time,StartupX
+36,Machine Learning Engineer,Surabaya,"""excel,java,python,sql""",10,7872624,Remote,StartupX
+37,Full Stack Developer,Bandung,"""python""",5,6822487,Part-time,CodeFactory
+38,System Administrator,Jakarta,"""excel,python""",0,6701338,Contract,CyberSecure
+39,Quality Assurance,Jakarta,"""excel,java""",6,11450100,Freelance,CloudSolutions
+40,Project Manager,Jakarta,"""sql,komunikasi""",0,22801662,Freelance,DataTech
+41,Cloud Architect,Tangerang,"""sql,excel""",1,14658750,Part-time,DigitalFirst
+42,Data Scientist,Denpasar,"""sql""",6,24103575,Part-time,CyberSecure
+43,Database Administrator,Tangerang,"""docker,java""",2,9412856,Freelance,CodeFactory
+44,Business Analyst,Yogyakarta,"""aws""",4,12266946,Contract,StartupX
+45,Full Stack Developer,Malang,"""python""",9,24997478,Freelance,InnovateSoft
+46,Software Engineer,Palembang,"""aws""",4,23384745,Contract,TechCorp
+47,Quality Assurance,Tangerang,"""python""",0,6588320,Part-time,StartupX
+48,Quality Assurance,Medan,"""excel""",9,7138231,Part-time,DataDriven
+49,Data Scientist,Jakarta,"""python,sql""",9,21227762,Remote,TechCorp
+50,Sales Executive,Bandung,"""docker,python""",6,21344801,Freelance,CloudSolutions
+51,Full Stack Developer,Surabaya,"""excel,java,python,sql""",0,16282073,Full-time,CyberSecure
+52,Frontend Developer,Makassar,"""java,python,sql""",8,24783871,Freelance,CyberSecure
+53,Business Analyst,Bandung,"""aws,java""",4,19124210,Contract,StartupX
+54,Project Manager,Makassar,"""python""",1,11687065,Remote,CyberSecure
+55,Product Manager,Tangerang,"""docker,excel""",0,21377769,Freelance,FutureTech
+56,Data Scientist,Jakarta,"""aws,python""",8,20470496,Full-time,CloudSolutions
+57,Project Manager,Surabaya,"""komunikasi,java""",3,5491699,Freelance,TechCorp
+58,Data Scientist,Bandung,"""docker""",5,9494368,Contract,AppDev
+59,HR Manager,Surabaya,"""sql,docker""",10,21221192,Remote,StartupX
+60,Machine Learning Engineer,Bekasi,"""aws,komunikasi""",2,20166157,Contract,MegaCorp
+61,Sales Executive,Tangerang,"""java,komunikasi""",9,8814495,Part-time,StartupX
+62,Backend Developer,Malang,"""java,sql""",5,13640014,Remote,SmartSystems
+63,HR Manager,Yogyakarta,"""aws""",7,24804669,Remote,DigitalFirst
+64,Product Manager,Malang,"""aws,docker""",8,13744431,Contract,CloudSolutions
+65,Mobile Developer,Denpasar,"""python,sql""",7,7424768,Part-time,DataTech
+66,Marketing Manager,Bandung,"""python""",1,20224358,Part-time,AppDev
+67,Sales Executive,Palembang,"""excel""",7,10194905,Part-time,StartupX
+68,Business Analyst,Depok,"""docker,sql""",4,14387493,Freelance,SmartSystems
+69,Cybersecurity Analyst,Semarang,"""sql""",10,21732783,Full-time,CodeFactory
+70,Backend Developer,Malang,"""java,python""",0,19344585,Freelance,FutureTech
+71,System Administrator,Tangerang,"""komunikasi,aws""",3,15401223,Full-time,AppDev
+72,Product Manager,Yogyakarta,"""python,komunikasi""",10,9648399,Contract,InnovateSoft
+73,Business Analyst,Tangerang,"""sql""",8,19278425,Full-time,MegaCorp
+74,Mobile Developer,Tangerang,"""sql""",3,6876947,Freelance,TechCorp
+75,Full Stack Developer,Surabaya,"""excel,python,sql""",3,15349272,Full-time,FutureTech
+76,Business Analyst,Balikpapan,"""docker,python""",0,9438417,Part-time,CodeFactory
+77,Database Administrator,Bekasi,"""java""",4,15345543,Part-time,WebMasters
+78,HR Manager,Medan,"""docker,python""",3,20092305,Part-time,SmartSystems
+79,Cloud Architect,Depok,"""excel""",6,8550120,Freelance,SmartSystems
+80,Cloud Architect,Bandung,"""python,sql""",7,15490433,Remote,TechCorp
+81,Frontend Developer,Yogyakarta,"""python""",7,24494218,Full-time,MegaCorp
+82,Marketing Manager,Yogyakarta,"""aws,komunikasi""",4,21827228,Remote,FutureTech
+83,Cloud Architect,Denpasar,"""excel,aws""",4,18020945,Full-time,SmartSystems
+84,UX Designer,Bekasi,"""komunikasi,python""",0,19313697,Contract,CloudSolutions
+85,UX Designer,Yogyakarta,"""sql,docker""",7,23300262,Remote,CodeFactory
+86,Frontend Developer,Makassar,"""python,sql""",4,11089538,Contract,DataDriven
+87,Full Stack Developer,Bandung,"""aws,sql""",10,17171700,Remote,InnovateSoft
+88,UX Designer,Semarang,"""excel,python""",8,8646518,Freelance,TechCorp
+89,Project Manager,Depok,"""excel""",9,21741985,Freelance,MegaCorp
+90,UX Designer,Yogyakarta,"""java""",4,10759327,Remote,MegaCorp
+91,Cloud Architect,Semarang,"""aws""",4,17418282,Remote,InnovateSoft
+92,Sales Executive,Palembang,"""docker,python""",5,14593214,Remote,DataTech
+93,Data Scientist,Depok,"""excel,aws""",3,11812053,Contract,AILabs
+94,Software Engineer,Balikpapan,"""aws,java,sql""",8,19555763,Freelance,AppDev
+95,Product Manager,Semarang,"""python""",3,14744728,Freelance,CloudSolutions
+96,Frontend Developer,Malang,"""komunikasi,sql""",1,9522580,Contract,StartupX
+97,Frontend Developer,Malang,"""java,python""",8,10503397,Part-time,SmartSystems
+98,Project Manager,Bandung,"""aws""",1,15803002,Remote,CyberSecure
+99,UX Designer,Bandung,"""excel,aws""",0,24980669,Freelance,CyberSecure
+100,Cybersecurity Analyst,Medan,"""sql""",2,15545953,Contract,DataTech
