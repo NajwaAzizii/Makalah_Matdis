@@ -1,7 +1,7 @@
 import csv
 import time
 
-class JobFilter:
+class Jurnal_Matdis:
     def __init__(self, csv_file):
         self.csv_file = csv_file
         self.jobs_data = []
@@ -15,10 +15,10 @@ class JobFilter:
             print(f"Berhasil memuat {len(self.jobs_data)} data lowongan kerja")
             return True
         except FileNotFoundError:
-            print(f"File {self.csv_file} tidak ditemukan!")
+            print(f" File {self.csv_file} tidak ditemukan!")
             return False
         except Exception as e:
-            print(f" Error membaca file: {e}")
+            print(f"Error membaca file: {e}")
             return False
     
     def parse_skills(self, skills_str):
@@ -214,7 +214,7 @@ def main():
     print("SISTEM FILTERING LOWONGAN KERJA")
     print("="*50)
     
-    job_filter = JobFilter('job_data_2.csv')
+    job_filter = Jurnal_Matdis('job_data_2.csv')
     
     if not job_filter.load_data():
         return
